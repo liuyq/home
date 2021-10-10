@@ -1,0 +1,22 @@
+[user]
+	email = yongqin.liu@linaro.org
+	name = Yongqin Liu
+[gitreview]
+	username = yongqin.liu
+[color]
+	ui = true
+[core]
+	editor = vim
+	autocrlf = false
+	filemode = false
+[push]
+	default = simple
+[http]
+	sslverify = false
+	cookiefile = /home/liuyq/.gitcookies
+[sendemail]
+    smtpencryption = tls
+    smtpserver = smtp.gmail.com
+    smtpuser = yongqin.liu@linaro.org
+    smtpserverport = 587
+    ## smtppass =
